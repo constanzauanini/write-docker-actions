@@ -1,5 +1,3 @@
-an use this link to easily edit this file.
-
 package main
 
 import (
